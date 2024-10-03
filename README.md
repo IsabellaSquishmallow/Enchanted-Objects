@@ -1,4 +1,6 @@
 # Enchanted-Objects
 
 This is a sentence. 
-**This is noooooooooooooot working!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+*I figured it out!*
+
+## Additional text
